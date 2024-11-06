@@ -5,7 +5,7 @@ const Owner = () => {
     return (
         <>
             <Nav />
-            <div className='flex items-center flex-col bg-slate-200 h-[1000px]'>
+            <div className='flex items-center flex-col bg-[#f8f1e5] h-[1000px]'>
                 <div className='w-[500px] text-3xl font-bold flex justify-center items-center p-5 m-10'>
                     <h1>Ten - Group 7 - 19</h1>
                 </div>
